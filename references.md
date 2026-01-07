@@ -1,1 +1,4 @@
-Enter some text thst conlficts with what we added for references in the main branch
+Enter some text that conlficts with what we added for references in the main branch
+# References
+
+* octocat 1 😈
